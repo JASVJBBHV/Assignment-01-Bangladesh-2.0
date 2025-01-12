@@ -57,7 +57,7 @@ body {
     display: flex;
     align-items: center;
     justify-content:space-around;
-    gap: 60px ;
+    gap: 50px ;
     /* justify-content: space-between;  */
    
   
@@ -66,7 +66,7 @@ body {
 }
 
 .banner-content {
-    max-width: 750px; 
+    max-width: 800px; 
     display: flex;
     flex-direction: column; 
     gap: 16px;
@@ -380,7 +380,7 @@ input::placeholder{
     border: none;
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
-    padding: 19px 32px;
+    padding: 20px 32px;
     
    
 

@@ -67,6 +67,7 @@ body {
 
 .banner-content {
     max-width: 850px; 
+    height: 201px;
     display: flex;
     flex-direction: column; 
     gap: 16px;

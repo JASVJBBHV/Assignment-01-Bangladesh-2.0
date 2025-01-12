@@ -21,7 +21,7 @@ body {
    
 }
 .bg{
-    padding: 0 160px;
+    padding: 0 150px;
 }
 
 
@@ -379,7 +379,7 @@ input::placeholder{
     border: none;
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
-    padding: 17px 42px;
+    padding: 17px 32px;
     
    
 
@@ -398,3 +398,23 @@ input[type="email"] {
     margin-bottom: 80px;
 }
 
+
+footer{
+    padding: 50px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+}
+.foot{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 23px;
+
+    
+   
+}
+hr{
+    border: 1px solid rgba(14, 14, 14, 0.1);
+    width: 1120px;
+    margin-bottom: 32px;
+}

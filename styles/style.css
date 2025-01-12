@@ -391,6 +391,7 @@ input[type="email"]::placeholder {
 input[type="email"] {
     border-top-left-radius: 8px;
     border-bottom-left-radius: 8px;
+    width: 600px;
     /* margin-bottom:22px ; */
 
 }
